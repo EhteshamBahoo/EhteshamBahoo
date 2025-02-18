@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Ehtesham!
+🚀 Passionate about AI, Data Science, and Cybersecurity  
+🎓 BSc Information Technology  
+💡 Exploring AI-driven solutions in interdisciplinary fields
 
-<!--
-**EhteshamBahoo/EhteshamBahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Technologies & Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats:
+![Ehtesham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Featured Projects
+- 🎯 [FIFA World Cup Prediction Model](https://github.com/your-username/fifa-prediction) - Machine learning model to predict World Cup fixtures.
+- 🏭 [AI for Renewable Energy Optimization](https://github.com/your-username/renewable-energy-ai) - AI-driven load distribution model for reducing power outages.
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
