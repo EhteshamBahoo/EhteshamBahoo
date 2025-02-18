@@ -10,8 +10,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Ehtesham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Ehtesham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EhteshamBahoo&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EhteshamBahoo&layout=compact&theme=radical)
 
 ## 🔥 Featured Projects
 - 🎯 [FIFA World Cup Prediction Model](https://github.com/your-username/fifa-prediction) - Machine learning model to predict World Cup fixtures.
