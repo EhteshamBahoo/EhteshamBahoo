@@ -10,7 +10,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Ehtesham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EhteshamBahoo&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=EhteshamBahoo&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EhteshamBahoo&layout=compact&theme=radical)
 
 ## 🔥 Featured Projects
