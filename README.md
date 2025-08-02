@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://wallpapersok.com/images/hd/la-la-land-4k-experience-a-musical-adventure-like-no-other-mhtus21s81c5ssnd.jpg" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=8a6296&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Salam+nd+Welcome!!!;I'm+Shami%2C+a+try+hard+and+a+wannabe+programmer+💜" width="70%" />
+![Typing Effect](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=8a6296&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Salam+nd+Welcome!!!;I'm+Shami%2C+a+try+hard+and+a+wannabe+programmer+💜)
 <br><br>
 <pre style="background-color: #9b43a4; color: white; padding: 10px;">
     💼 BSc Information Technology @ Middlesex University  
