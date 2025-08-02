@@ -10,4 +10,4 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
-![Coding GIF]([https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHc2a3cyYmFua28xc3cyM2c5cTUzM3B5Y3RpNWo2OGRkajFmOGN0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KoyPwshi3qVhtSqQNT/giphy.gif))
+![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHc2a3cyYmFua28xc3cyM2c5cTUzM3B5Y3RpNWo2OGRkajFmOGN0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KoyPwshi3qVhtSqQNT/giphy.gif)
