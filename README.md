@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://wallpapersok.com/images/hd/la-la-land-4k-experience-a-musical-adventure-like-no-other-mhtus21s81c5ssnd.jpg" width="25%" align="right" />
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D195E4&center=true&multiline=true&width=435&lines=Salam+%26+Welcome!!!;I+am+Ehtesham%2C+wannabe+programmer+%26+researcher+%3C3)](https://git.io/typing-svg)<br><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=D195E4&center=true&multiline=true&width=600&height=80&lines=Salam+%26+Welcome!!!;I+am+Ehtesham%2C+wannabe+programmer+%26+researcher+%3C3" alt="Typing SVG" /></a><br><br>
 <pre style="background-color: #9b43a4; color: white; padding: 10px;">
     💼 BSc Information Technology @ Middlesex University  
     💻 Python • JavaScript • TensorFlow • PyTorch
